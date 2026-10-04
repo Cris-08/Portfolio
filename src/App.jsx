@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import { ArrowDown, ArrowUpRight, ArrowUp, Asterisk, Check, Copy, Menu, X, Plus } from 'lucide-react';
 import ProjectDialog from './ProjectDialog.jsx';
 import usePortfolioMotion from './usePortfolioMotion.js';

@@ -1,4 +1,4 @@
-import { Fragment, useEffect, useRef } from 'react'
+import React, { Fragment, useEffect, useRef } from 'react'
 import { ArrowLeft, ArrowUpRight, X } from 'lucide-react'
 import './project-dialog.css'
 
